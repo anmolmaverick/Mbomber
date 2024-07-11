@@ -15,7 +15,7 @@ def banner():
     printf "██   ██ ██  ██ ██ ██  ██  ██ ██    ██ ██      
 ██   ██ ██   ████ ██      ██  ██████  ███████ \e[0m\n"
     printf "\n"
-    printf "\e[31m\e[1;95mB A N M O L  M A V R I C K\n"
+    printf "\e[31m\e[1;95m A N M O L  M A V R I C K\n"
     printf "DEVELOPED BY ANMOL MAVERICK\e[0m\n"
     printf "\e[31m═══════════════════════════\n"
     printf "\e[1;32mDisclaimer:~ Developer will\n"
