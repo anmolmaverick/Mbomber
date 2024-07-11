@@ -9,11 +9,14 @@ def clear():
 
 def banner():
 	os.system('''
-    printf "\e[1;32m▀█▀ █▀ █░█ █▄░█ ▄▀█ █▀▄▀█ █\n"
-    printf "░█░ ▄█ █▄█ █░▀█ █▀█ █░▀░█ █\e[0m\n"
+    printf "\e[1;32m █████  ███    ██ ███    ███  ██████  ██      
+██   ██ ████   ██ ████  ████ ██    ██ ██      
+███████ ██ ██  ██ ██ ████ ██ ██    ██ ██      \n"
+    printf "██   ██ ██  ██ ██ ██  ██  ██ ██    ██ ██      
+██   ██ ██   ████ ██      ██  ██████  ███████ \e[0m\n"
     printf "\n"
-    printf "\e[31m\e[1;95mB O M B I N G   W E B A P P\n"
-    printf "DEVELOPED BY UTSANJAN MAITY\e[0m\n"
+    printf "\e[31m\e[1;95mB A N M O L  M A V R I C K\n"
+    printf "DEVELOPED BY ANMOL MAVERICK\e[0m\n"
     printf "\e[31m═══════════════════════════\n"
     printf "\e[1;32mDisclaimer:~ Developer will\n"
     printf "not be responsible for any\n"
